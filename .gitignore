@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.pcap
+*.pcapng
+*.tar.gz
+build/
+dist/
